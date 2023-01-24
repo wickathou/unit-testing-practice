@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wickathou/unit-testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wickathou/unit-testing-practice/issues"
+  },
+  "homepage": "https://github.com/wickathou/unit-testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.4.0"
+  }
+}
